@@ -11,7 +11,6 @@ This repository contains my homework assignments for the Data Analysis in Fundam
 * Unsupervised clustering models
 * Artificial neural network models
 
-Development Environment
 The assignments were written in Python 3 and were completed using Jupyter Notebooks within the Anaconda development environment. Required libraries for each assignment are listed at the top of the corresponding file.
 
 
