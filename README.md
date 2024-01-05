@@ -1,6 +1,6 @@
 # Data-Analysis-In-Fundamental-Sciences
 
-This repository contains my homework assignments for the Data Analysis in Fundamental Sciences course. The course covers a variety of topics related to data analysis, including:
+This repository contains my homework assignments for the "Data Analysis in Fundamental Sciences" course. The course covers a variety of topics related to data analysis, including:
 
 * Good habits for data analysis
 * Basic Python
